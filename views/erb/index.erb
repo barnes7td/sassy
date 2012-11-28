@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+  <link href="../stylesheets/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <% (1..25).each do |num| %>
+      <div class="red-<%= num %>"><%= num %></div>
+    <% end %>
+  </div>
+</body>

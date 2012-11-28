@@ -1,0 +1,181 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+div.red-1 {
+  background-color: #f60000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-2 {
+  background-color: #ed0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-3 {
+  background-color: #e40000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-4 {
+  background-color: #db0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-5 {
+  background-color: #d20000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-6 {
+  background-color: #c90000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-7 {
+  background-color: #c00000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-8 {
+  background-color: #b70000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-9 {
+  background-color: #ae0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-10 {
+  background-color: #a50000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-11 {
+  background-color: #9c0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-12 {
+  background-color: #930000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-13 {
+  background-color: #8a0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-14 {
+  background-color: #810000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-15 {
+  background-color: #780000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-16 {
+  background-color: #6f0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-17 {
+  background-color: #660000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-18 {
+  background-color: #5d0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-19 {
+  background-color: #540000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-20 {
+  background-color: #4b0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-21 {
+  background-color: #420000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-22 {
+  background-color: #390000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-23 {
+  background-color: #300000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-24 {
+  background-color: #270000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.red-25 {
+  background-color: #1e0000;
+  color: white;
+  width: 50px;
+  height: 50px;
+  float: left; }
+
+div.container {
+  width: 250px; }

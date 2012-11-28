@@ -1,0 +1,22 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+// @import "compass/reset";
+$color: #ff0000;
+
+@for $i from 1 through 25 {
+  $color: $color - #090000;
+  div.red-#{$i} { 
+    background-color: $color; 
+    color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+  }
+}
+
+div.container {
+  width: 250px;
+}
